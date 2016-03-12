@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test Site Dimitris]]></title>
         <description><![CDATA[Test Site Dimitris]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-site-dimitris/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 08:35:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 09:12:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-site-dimitris/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aff1b163-0928-4a94-a262-958909f0a675.jpg">]]></description>
+            <link>https://thegrid.ai/test-site-dimitris/2cf6893d-e889-49e8-9729-0036d66eccf2/index.html</link>
+            <guid isPermaLink="false">2cf6893d-e889-49e8-9729-0036d66eccf2</guid>
+            <pubDate>Sat, 12 Mar 2016 09:12:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>We are a team of experts in the game design area, as we own an escape room business. We started as gamers and loved it. So we decided why not create a room ourselves? And then it came the second, the third and so on. The goal was to create original puzzle ideas and cinematic feeling in all our rooms.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/697b8d7562b6f44797bdfe12936276bb924ee4f9.jpg"></article>]]></description>
-            <link>undefined4e00b984-dc1c-48b6-85b2-061e91652b52/index.html</link>
+            <link>https://thegrid.ai/test-site-dimitris/4e00b984-dc1c-48b6-85b2-061e91652b52/index.html</link>
             <guid isPermaLink="false">4e00b984-dc1c-48b6-85b2-061e91652b52</guid>
             <pubDate>Sat, 12 Mar 2016 08:34:54 GMT</pubDate>
         </item>
