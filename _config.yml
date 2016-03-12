@@ -1,0 +1,28 @@
+name: Test Site Dimitris
+favicon: null
+layout_spectrum: 0.7950713899917901
+typography_spectrum: 0.10383607004769146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.38290153653360903
+  lightness: 0.5135307037271559
+  saturation: 0.858088028151542
+  rhythmicContrast: 0.28766683069989085
+purpose: []
